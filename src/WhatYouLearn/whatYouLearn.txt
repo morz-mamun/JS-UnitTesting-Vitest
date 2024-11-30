@@ -1,0 +1,6 @@
+1. What is unit testing?
+2. Types of tests
+3. Testing frameworks
+4. Setting up vitest
+5. Your first tests
+6. Test-driven Development(TDD)
