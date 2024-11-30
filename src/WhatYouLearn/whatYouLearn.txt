@@ -1,6 +1,29 @@
 1. What is unit testing?
+ans: Unit testing a form of automated testing where we write code to test our code.
+**Benifits**
+i. Detects Bugs Early 
+ii. Facilitates Refactoring
+iii. Improves Code Quality
+iv. Write Documentation
+
 2. Types of tests
+ans: In automated testing we have three types of testing -> 
+i. Unit testing
+ii. Integration testing
+iii. End-to-end testing
+
 3. Testing frameworks
+ans: A testing frameworks a set of tools for writing and running test.
+It's includes -> 
+i. Test Runner : For executing test.
+ii. Assertion Libraries : To checked if the code behave like as aspected.
+iii. Mocking Tools : To replace certain modules with fake simulating different scienario.
+iv. Test Coverage Tools : For mejoring how much code is tested
+
+**Popular frameworks** 
+Jest, Mocha, Jasmine, Vitest, Cypress, Playwrite
+
 4. Setting up vitest
 5. Your first tests
 6. Test-driven Development(TDD)
+7. Shortcuts to navigate code in VSCode
